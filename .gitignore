@@ -1,0 +1,7 @@
+pretrained_weights/*
+runs/*
+YOLOv9/*
+command.md
+wandb/*
+*/__pycache__
+**/__pycache__
